@@ -1,4 +1,4 @@
- def menu(): 
+def menu(): 
     print("Bienvenido a LógicaBin")
     print("1. Simular puerta lógica")
     print("2. Generar tabla de verdad")
