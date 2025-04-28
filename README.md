@@ -7,3 +7,11 @@ La aplicacion permite simular operaciones de lógica booleana básicas. Su objet
 Simular puertas lógicas: como AND, OR, XOR, NAND, NOR y NOT.
 Generar una tabla de verdad: con todas las combinaciones posibles para A y B.
 Resolver expresiones booleanas simples: como A AND (NOT B).
+
+
+
+Integrantes: 
+Del Valle Lietti Joaquin
+Daraio Camila Yasmin
+Den Dauw Cecilia
+Decima Isa Roque Salomon
